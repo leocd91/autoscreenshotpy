@@ -6,14 +6,14 @@ auto screenshot webinar / virtual meeting presentation when the slides changes.
 - [x] ~~Too lazy to screenshot~~ then moved it to docs etc.
 - [x] I want to focus to the presentation
 
-Just got a little time to code this (***speedrun!!!***), so if there's any problem just submit the issue or please fix it yourself then push it (will) :D 
+Just got a little time to code this (***speedrun!!!***), so if there's any problem just submit the issue.
 
 ## How it works
 1. We set the screen area which will be saved
 2. We set the focus area (for example, part of the slides) which the program will monitor. 
 3. If the area of focus changes, the program will save the screen area we wanted to save.
 
-![Demo](demo/demo.gif)
+![Demo](demo.gif)
 
 ## Requirements
 - python 3.x on Windows OS (haven't tried it yet on other os yet)
