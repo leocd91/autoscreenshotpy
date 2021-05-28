@@ -11,7 +11,7 @@ Just got a little time to code this (***speedrun!!!***), so if there's any probl
 ## How it works
 1. We set the screen area which will be saved
 2. We set the focus area (for example, part of the slides) which the program will monitor. 
-3. If the area of focus changes, the program will save the screen area we wanted to save.
+3. If the area of focus changes (simulate presenter changing to the next slide), the program will save the screen area we wanted to save.
 
 ![Demo](demo.gif)
 
