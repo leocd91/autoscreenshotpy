@@ -84,7 +84,7 @@ class GUI(tk.Tk):
 
 
 def helloCallBack(self):
-    ctypes.windll.user32.MessageBoxW(0, "Auto Screenshot starting! \nTo stop, just close the minimized terminal below.", "AutoScreenshotPy by Leo", 0)
+    ctypes.windll.user32.MessageBoxW(0, "Auto Screenshot starting! \nTo stop, just close the minimized terminal below.", "AutoScreenshotPy by leocd91", 0)
     bbox = self.canvas.bbox(self.rect2)
     bbox2 = self.canvas.bbox(self.rect)
     print('Recording started!')
