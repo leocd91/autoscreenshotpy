@@ -16,7 +16,7 @@ Just got a little time to code this (***speedrun!!!***), so if there's any probl
 ![Demo](demo.gif)
 
 ## Requirements
-- python 3.x on Windows OS (haven't tried it yet on other os yet)
+- python 3.x on Windows OS (haven't tried it on other OS yet)
 
 ## Package I use (tried to make this as lightweight as possible)
 - ```tkinter```
