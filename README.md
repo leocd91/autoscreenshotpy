@@ -3,7 +3,7 @@ auto screenshot webinar / virtual meeting presentation when the slides changes.
 
 ## Background
 - [x] Too many webinar / virtual meeting
-- [x] ~~Too lazy to screenshot~~ then moved it to docs etc.
+- [x] ~~Too lazy to screenshot~~.
 - [x] I want to focus to the presentation
 
 Just got a little time to code this (***speedrun!!!***), so if there's any problem just submit the issue.
